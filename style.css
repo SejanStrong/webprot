@@ -1,0 +1,38 @@
+/*nav style */
+
+
+.dm-sans-simple {
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;;
+  font-style: normal;
+}
+/*Shared Text*/
+.text_primary{
+  color:#fd6e0a;
+}
+
+
+nav{
+    display: flex;
+}
+.nav_title{
+    font-weight: 800;
+    font-size: 45px;
+}
+
+nav li ul{
+  list-style: none;
+  margin: 50px;
+}
+
+nav li ul a{
+  text-decoration: none;
+  font-size: 20px;
+}
+.dark_2{
+  color:#474747;
+}
+nav ul{
+  display: flex;
+  margin-right: 50px;
+}
